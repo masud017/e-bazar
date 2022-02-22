@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126815214635",
+    "project_id": "ebazar-79474",
+    "storage_bucket": "ebazar-79474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126815214635:android:d7a7eb00d21676a569de6e",
+        "android_client_info": {
+          "package_name": "com.example.ebazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126815214635-p7e7uu27er70nubu21js037sc3ln1uqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebazar",
+            "certificate_hash": "991f599142cf2476260251df46edb21757e33561"
+          }
+        },
+        {
+          "client_id": "126815214635-87t43siqe1r9s582gojeh9t294udk5hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rysiNY-vZKqzoF3SuD700vZx0CE6480"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126815214635-87t43siqe1r9s582gojeh9t294udk5hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
